@@ -13,8 +13,7 @@ An iOS application that displays current and forecast weather data for any city.
 
 ## Live Demo Backend
 
-* Live Demo: `https://youtu.be/1uk_0ft0Ax4`
-
+* Visit the live site at [Online Demo](https://youtu.be/1uk_0ft0Ax4)  
 ---
 
 ## Features
