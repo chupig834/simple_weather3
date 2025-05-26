@@ -1,6 +1,10 @@
 # Weather App iOS Version
 
-An iOS application that displays current and forecast weather data for any city. It features:
+## Overview
+
+This iOS Weather App provides users with accurate, real-time weather information for any location. Built with SwiftUI, the app combines smooth animations and intuitive design to display current conditions, hourly and daily forecasts, and detailed metrics. Geolocation and search capabilities allow quick access to desired cities, while data persistence and social features enhance the user experience.
+
+## Features
 
 * **SwiftUI frontend** with responsive views and animations
 * **CoreLocation** for device-based geolocation
